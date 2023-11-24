@@ -40,3 +40,4 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 Ceci est un test
 Ceci n'est pas un pied de biche
 Ceci est l'autre test
+Test push vers l'autre branche d'un depot distant 
